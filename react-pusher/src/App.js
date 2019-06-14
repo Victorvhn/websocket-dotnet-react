@@ -1,6 +1,5 @@
 import React from "react";
 import Pusher from "pusher-js";
-import PusherTest from "./PusherTest";
 
 export default class App extends React.Component {
   state = {
