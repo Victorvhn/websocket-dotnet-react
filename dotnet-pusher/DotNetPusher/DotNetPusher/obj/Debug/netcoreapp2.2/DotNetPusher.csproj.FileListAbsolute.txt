@@ -1,0 +1,14 @@
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\bin\Debug\netcoreapp2.2\DotNetPusher.deps.json
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\bin\Debug\netcoreapp2.2\DotNetPusher.runtimeconfig.json
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\bin\Debug\netcoreapp2.2\DotNetPusher.runtimeconfig.dev.json
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\bin\Debug\netcoreapp2.2\DotNetPusher.dll
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\bin\Debug\netcoreapp2.2\DotNetPusher.pdb
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\obj\Debug\netcoreapp2.2\DotNetPusher.csprojAssemblyReference.cache
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\obj\Debug\netcoreapp2.2\DotNetPusher.csproj.CoreCompileInputs.cache
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\obj\Debug\netcoreapp2.2\DotNetPusher.RazorAssemblyInfo.cache
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\obj\Debug\netcoreapp2.2\DotNetPusher.RazorAssemblyInfo.cs
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\obj\Debug\netcoreapp2.2\DotNetPusher.AssemblyInfoInputs.cache
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\obj\Debug\netcoreapp2.2\DotNetPusher.AssemblyInfo.cs
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\obj\Debug\netcoreapp2.2\DotNetPusher.RazorTargetAssemblyInfo.cache
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\obj\Debug\netcoreapp2.2\DotNetPusher.dll
+C:\Projects\websocket-dotnet-react\dotnet-pusher\DotNetPusher\DotNetPusher\obj\Debug\netcoreapp2.2\DotNetPusher.pdb
